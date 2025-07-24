@@ -1,0 +1,4 @@
+name: LightningBlade
+version: '1.0-SNAPSHOT'
+main: dev.m7med.lightningblade.LightningBlade
+api-version: '1.21'

@@ -1,0 +1,22 @@
+Lighting-Sword:
+  Display-Name: "<blue>Voice of the <yellow>Thunderlord"
+  Material: "IRON_SWORD"
+  cooldown: 10 # seconds
+  isEnchanted: true
+  Enchantments:
+    - "DAMAGE_ALL:5"
+    - "FIRE_ASPECT:2"
+  Range: 15 # air only
+  Lore:
+    - "<yellow>Forged in the <aqua>clouds <yellow>above the world"
+    - "<gray>Shaped from the heart of a mighty storm"
+    - "<blue>Each strike echoes the voice"
+    - "<blue>of the ancient <yellow>Thunderlord"
+    - "<dark_gray>Bound by storm, wielded by destiny"
+    - "<italic><green>Right-click to summon the voice of <gold>Zeus</gold></green></italic>"
+messages:
+  cooldown: "you have to wait <red>%cooldown%<red> seocnds before using %itemname%"
+  playerGiveHimself: "<green>You have been blessed with <aqua>%item%</aqua></yellow>!"
+  playerGaveAnother: "<green>You gave <aqua>%item%</aqua></yellow> to <blue>%player%</blue>!"
+  playerReceivedFrom: "<green>You received <aqua>%item%</aqua></yellow> from <blue>%player%</blue>!"
+
